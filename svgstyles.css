@@ -1,0 +1,28 @@
+.line {
+	/*stroke - Line color*/
+	stroke:black; 
+	stroke-width:2px;
+}
+
+.dot {
+	fill:red;
+}
+
+.label {
+	font-size:20px;
+	fill:black;
+	text-anchor:middle;
+}
+
+.plain {
+	stroke-width:2px;
+	stroke:gray;
+	fill:blue;
+	fill-opacity: 0.5;
+}
+
+.markangle {
+	stroke-width:2px;
+	stroke:gray;
+	fill:none;
+}
