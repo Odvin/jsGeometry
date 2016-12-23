@@ -1,0 +1,208 @@
+/***** Stroke *****/
+
+/*** Lines ***/
+
+.l-main {
+	stroke:black; 
+	stroke-width:3px;
+	stroke-opacite:1;	
+}
+
+.l-help {
+	stroke:gray; 
+	stroke-width:2px;
+	stroke-opacite:0.5;
+}
+
+.l-thick {
+	stroke-width:4px;
+}
+
+.l-thin {
+	stroke-width:2;
+}
+
+.l-red {
+	stroke:red;
+}
+
+.l-blue {
+	stroke:blue;
+}
+
+.l-green {
+	stroke:green;
+}
+
+.l-gray {
+	stroke:gray;
+}
+
+
+/* Text */
+
+.textElement {
+	font-size:1.25em;
+	fill:black;
+	text-anchor:middle;
+}
+
+.textSmall {
+	font-size:0.8em;
+}
+
+.textBlue {
+	fill:blue;
+}
+
+.textBlack {
+	fill:black;
+}
+
+.textRed {
+	fill:red;
+}
+
+.textGreen {
+	fill:green;
+}
+
+.textPurple {
+	fill:purple;
+}
+
+.textGray {
+	fill:gray;
+}
+
+/* Dots */
+
+.pointBlack {
+	fill:black;
+}
+
+.pointBlue {
+	fill:blue;
+}
+
+.pointRed {
+	fill:red;
+}
+
+.pointGreen {
+	fill:green;
+}
+
+/* Distance*/
+
+.distanceArrow {
+	stroke:black; 
+	stroke-width:2px;
+}
+
+/* Lines*/
+
+.mainLine {
+	stroke:black; 
+	stroke-width:3px;
+}
+
+.helpLine {
+	stroke:black; 
+	stroke-width:2px;
+}
+
+/* Grid */
+
+.gridUnit {
+	fill:#F0F1EB;
+	stroke:#000000;
+	stroke-width:0.3;
+}
+
+
+.axisArrow {
+	stroke-width: 5;
+	stroke:#000000;
+	fill:#000000;
+}
+
+.axisVerticalslash {
+	stroke-width: 5;
+	stroke:#000000;
+	fill:#000000;
+}
+
+.axisOx {
+	fill: none;
+	stroke:#000000;
+	stroke-width: 3;
+	stroke-dasharray: null;
+	stroke-linejoin: null;
+	stroke-linecap: null;
+}
+
+/* Path */
+
+.path {
+	stroke:black;
+	fill:gray;
+	stroke-width:2;
+	stroke-opacity:1;
+	fill-opacity:0.2;
+}
+
+.red {
+	stroke:red;
+	fill:red;
+}
+
+/* Polygons */
+
+.polygon {
+	stroke:black;
+	stroke-width:2;
+	stroke-opacity:1;
+	fill-opacity:0.2;
+	fill:gray;
+}
+
+.polygonRed {
+	stroke:red;
+	stroke-width:2;
+	stroke-opacity:1;
+	fill-opacity:0.2;
+	fill:red;
+}
+
+.polygonBlue {
+	stroke:blue;
+	stroke-width:2;
+	stroke-opacity:1;
+	fill-opacity:0.2;
+	fill:blue;
+}
+
+/* Circles */
+
+.mainCircle {
+	stroke:black;
+	stroke-width:2;
+	stroke-opacity:1;
+	fill-opacity:0.2;
+	fill:gray;
+}
+
+
+.plain {
+	stroke-width:2px;
+	stroke:gray;
+	fill:blue;
+	fill-opacity:0.5;
+}
+
+.markangle {
+	stroke-width:2px;
+	stroke:gray;
+	fill:none;
+}

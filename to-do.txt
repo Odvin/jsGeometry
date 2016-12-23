@@ -1,0 +1,14 @@
+// TO DO
+
+1. css rules for gElements;
+	Point 		(circle)
+	Circle 		(circle)
+	Segment 	(line)
+	Vector 		(line)
+	Line 		(lien)
+	Poligone 	(poligone)
+	Path		(path)
+	OxSegment	
+	Distanse
+2. examples of fractions with circles;
+3. isolete scope of variables;
